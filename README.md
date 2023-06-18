@@ -1,1 +1,1 @@
-# PostmanColllectionsAuto
+# PostmanCollectionsAuto
