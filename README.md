@@ -1,2 +1,2 @@
 # PostmanCollectionsAuto
-This is all about practicing Postman collections.
+● This is all about practicing Postman collections.
